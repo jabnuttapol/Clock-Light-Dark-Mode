@@ -1,1 +1,1 @@
-Go to website: https://clock-lightdark-mode.onrender.com
+Go to website: https://clock-light-dark-mode.onrender.com
