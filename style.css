@@ -41,3 +41,14 @@ html.dark{
 html{
     transition: all 0.5s ease-in;
 }
+
+@media (min-height:830px){
+    .toggle{
+        margin-top: 2rem;
+    }
+}
+@media (min-height:900px){
+    .toggle{
+        margin-top: 4rem;
+    }
+}
